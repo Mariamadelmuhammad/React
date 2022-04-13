@@ -1,0 +1,81 @@
+.skill {
+  justify-self: center;
+  justify-items: center;
+  position: relative;
+  font-family: cursive;
+  color: whitesmoke;
+  background-color: rgb(14, 39, 39);
+}
+.focus {
+  align-items: center;
+  font-size: x-large;
+}
+#myProgress {
+  width: 80%;
+  background-color: rgba(221, 221, 221, 0.747);
+}
+
+#myBar {
+  width: 90%;
+  height: 30px;
+  background-color: rgb(4, 13, 17);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+#myBar1 {
+  width: 92%;
+  height: 30px;
+  background-color: rgb(4, 13, 17);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+#myBar2 {
+  width: 80%;
+  height: 30px;
+  background-color: rgb(4, 13, 17);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+#myBar3 {
+  width: 70%;
+  height: 30px;
+  background-color: rgb(4, 13, 17);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+#myBar4 {
+  width: 90%;
+  height: 30px;
+  background-color: rgb(4, 13, 17);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+#myBar5 {
+  width: 80%;
+  height: 30px;
+  background-color: rgb(4, 13, 17);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+#myBar6 {
+  width: 80%;
+  height: 30px;
+  background-color: rgb(4, 13, 17);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+#myBar7 {
+  width: 90%;
+  height: 30px;
+  background-color: rgb(4, 13, 17);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}

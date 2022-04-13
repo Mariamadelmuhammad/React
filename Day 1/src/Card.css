@@ -1,0 +1,22 @@
+.down {
+  background-color: whitesmokes;
+  color: whitesmoke;
+  font-family: cursive;
+  align-content: center;
+}
+.paint {
+  background-color: rgb(82, 114, 114);
+}
+
+.nopaint {
+  background-color: rgb(4, 13, 17);
+}
+.cent {
+  width: 300px;
+  height: 200px;
+}
+.port {
+  font-size: 50px;
+  font-family: cursive;
+  color: black;
+}
